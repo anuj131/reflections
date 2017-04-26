@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a place where the files that are to be committed will be present. Working directory contains all the file/folder of the project. Repository contains the files that are committed from and pushed. 
+
+Staging area lets us know which files are to be committed and helps us seperate the files that are ready to be committed with the ones that are not.

@@ -1,0 +1,4 @@
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Merging two branch will result in a single branch and a new commit for the merge. We represent it in a diragram to keep track of the commits/changes that were done before and after the merge or before and after the second branch was created.

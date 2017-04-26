@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+An empty git repository will be created with no commits and tracking history. This is required incase the existing project/work has to be pused to git and there is no remoet git repository for this project present already.

@@ -6,4 +6,4 @@ Why might you want to always pull changes manually rather than having Git automa
 	
 	Local changes will be lost if they are not committed.
 
-Test conflict
+Test conflict repeat
